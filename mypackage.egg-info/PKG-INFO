@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<username>/<package-name>
+Author: <Thato>
+Author-email: <16391081@mygibs.co.za>
+License: MIT
+Description: # mypackage
+        This library was created as an example of how to publish your own Pythin package.
+        
+        # How to insall
+        ....
+Platform: UNKNOWN
